@@ -10,8 +10,8 @@ start_time = time.time()
 
 engine = create_engine(URL(
                     account = 'nbbdktk-ik58132',
-                    user = 'sanket',
-                    password = 'Sanket@28',
+                    user = '*****',
+                    password = '*******',
                     database = 'otodom',
                     schema = 'public',
                     warehouse = 'COMPUTE_WH'
